@@ -1,0 +1,6 @@
+ vlog_opts:
+ - -L register_interface_lib
+ 
+ incdirs:
+ - ../register_interface/include
+ - ../register_interface/vendor/lowrisc_opentitan/include
